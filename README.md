@@ -33,7 +33,7 @@ Fornece uma experiência moderna, responsiva e intuitiva para **usuários, admin
 
 Clone o repositório:
 ```bash
-[git clone https://github.com/seu-usuario/libmanager-frontend.git](https://github.com/FeJoestar18/FRONT-LibManager.git)
+git clone https://github.com/FeJoestar18/FRONT-LibManager.git
 ```
 
 ```bash
