@@ -42,7 +42,7 @@ cd FRONT-LibManager
 
 Instale as dependências:
 ```bash
-yarn install
+npm install
 ```
 
 Configure o ambiente criando um arquivo `.env`:
@@ -52,7 +52,7 @@ VITE_API_URL=http://localhost:8000/api
 
 Inicie o servidor de desenvolvimento:
 ```bash
-yarn start
+npm run dev
 ```
 
 ---
